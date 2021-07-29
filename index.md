@@ -8,6 +8,24 @@
 - 東京
 - コード
 
+# Skills
+使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。
+- OS（Windows,Ubuntuなど）
+- Languages（JavaScriptなど）
+- Engine,Frameworks (Node.js, Expressなど)
+- Tool,MiddleWare（Git, PostgreSQLなど）
+- 資格、免許（情報処理技術者、LPICなど）
+
+
+# Works
+アピールできる活動内容を書きましょう。
+- [GitHub](GitHubのURL)
+
+# History
+学歴、職歴、アルバイト、インターン経験など。
+-2021年○○入社
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/StormtrooperR2/stormtrooperR2.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
