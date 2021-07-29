@@ -1,3 +1,13 @@
+# About
+
+男
+スポーツがしたい
+
+## Profile
+- 花岡
+- 東京
+- コード
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/StormtrooperR2/stormtrooperR2.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
